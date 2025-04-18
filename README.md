@@ -1,1 +1,1 @@
-# trying to write a snake game in c++
+# trying to write a game in c
